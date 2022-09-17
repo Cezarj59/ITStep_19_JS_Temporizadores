@@ -1,0 +1,20 @@
+.container {
+    width: 940px;
+    margin: auto;
+    text-align: center;
+}
+
+.box {
+    margin-top: 15%;
+}
+
+.caixa{
+    font-size: 3rem;
+}
+.caixas {
+    width: 5rem;
+    height: 5rem;
+    border: 5px solid #000;
+    background-color: #fff;
+    display: inline-block;
+}
